@@ -36,42 +36,41 @@ Using the CoinLore API, create a simple web app that displays information on cry
 
 ### Screenshot
 
-![News Home Page](./Screenshot_2024-06-15%20Frontend%20Mentor%20News%20homepage(1).png)
+![Coinlore page](./norebase_screenshot.jpeg)
 
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
-- Live Site URL: (https://news-homepage-tau-tawny.vercel.app/)
+- Solution URL: (https://github.com/glamorous-chi/norebase)
+- Live Site URL: (https://norebase-mocha.vercel.app/)
 
 
 ### Built with
 
 - React
 - Tailwind CSS
-- Mobile-first workflow
 
 
 ### What I learned
 
-I learned how to use CSS Grid, CSS Grid properties, and Flexbox. Most importantly, I learned how to use Utility classes and Custom properties to my advantage. I also learnt how to do a reset in order to remove some default styles that came with some HTML elements. For example, HTML Paragraphs come with a default margin of 16px at the top and bottom, and a reset removes such, so I can give my own styles as I wish.
+I learned how to display fetched data in a table, I also ensured that the layout of the design on desktop and mobile devices matches the design shown in the sample video given.
 
 
 ### Continued development
 
-I will love to sharpen my skills when it comes to building a good design structure however the Layout may be i.e following a Mobile-first design approach whilst keeping my Desktop design in mind. Essentially, learning to see the bigger pcture and not focusing just on my Mobile design but seeing how my desktop design layout differs from my Mobile design layout and ensuring that both designs come out well while building.
+I will love to add more features, and components to the design in the future.
 
 
 ### Useful resources
 
-- [CSS Grid Tutorial](https://www.youtube.com/watch?v=rg7Fvvl3taU&t=485s) - This helped me understand CSS Grid.
-- [CSS Flexbox Tutorial](https://www.youtube.com/watch?v=u044iM9xsWU&t=987s) - This is helped me understand Flexbox better.
+- [CoinLore API docs](https://www.coinlore.com/cryptocurrency-data-api)
+- [Sample video](https://www.loom.com/share/a1ea440504f546118e35377eb84237fb?sid=47251424-6148-4770-b2e5-c3306fa78908)
 
 
 ## Author
 
-- Frontend Mentor - (https://www.frontendmentor.io/profile/glamorous-chi)
+- GitHub - (https://github.com/glamorous-chi)
 
 ## Acknowledgments
 
-Even though he may never see this, I want to say a Huge thanks to Mr. Kevin Powell for his awesome tutorials on YouTube on CSS Grid and CSS as a whole.
+Thank you Norebase for this challenge!
